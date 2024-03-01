@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T18:41:06.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3Iy5zi5ZkfGKL9HIgAhm" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T18:45:38.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="zzXz4EAnj6D3Ke7inxD7" version="23.0.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1560" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,10 +63,13 @@
         <mxCell id="oTjzKzDoYP32wAgAro-r-52" value="synchronize EAD /&#xa;Azure AD" style="" vertex="1" parent="4">
           <mxGeometry x="70" y="380" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oTjzKzDoYP32wAgAro-r-60" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.315789473684276;" vertex="1" parent="4">
+          <mxGeometry x="103" y="170" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="oTjzKzDoYP32wAgAro-r-41" value="MedIT Systems&#xa;(Java apps / Power Platform apps)" style="swimlane;whiteSpace=wrap;startSize=60;" vertex="1" parent="1">
           <mxGeometry x="881" y="120" width="280" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="oTjzKzDoYP32wAgAro-r-42" value="granted access to &#xa;on boarding staff" style="" vertex="1" parent="oTjzKzDoYP32wAgAro-r-41">
+        <mxCell id="oTjzKzDoYP32wAgAro-r-42" value="granted access to &#xa;on boarding staff &#xa;to access systems" style="" vertex="1" parent="oTjzKzDoYP32wAgAro-r-41">
           <mxGeometry x="70" y="376" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oTjzKzDoYP32wAgAro-r-45" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="oTjzKzDoYP32wAgAro-r-41">
@@ -90,6 +93,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="415.55" as="sourcePoint" />
             <mxPoint x="950" y="415.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oTjzKzDoYP32wAgAro-r-63" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="7" target="oTjzKzDoYP32wAgAro-r-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="400" as="sourcePoint" />
+            <mxPoint x="680" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

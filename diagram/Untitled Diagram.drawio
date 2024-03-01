@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T18:40:44.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="k7PtBZDFQmshfQ6xFOBn" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T18:41:06.596Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3Iy5zi5ZkfGKL9HIgAhm" version="23.0.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1560" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -8,42 +8,42 @@
           <mxGeometry x="40" y="120" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
-          <mxGeometry x="100" y="90" width="30" height="30" as="geometry" />
+          <mxGeometry x="118" y="90" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" target="7" edge="1">
           <mxGeometry x="100" y="40" as="geometry">
-            <mxPoint x="115" y="161" as="targetPoint" />
-            <mxPoint x="115" y="121" as="sourcePoint" />
+            <mxPoint x="133" y="161" as="targetPoint" />
+            <mxPoint x="133" y="121" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="submit on boarding&#xa;application by &#xa;Supervisor" style="" parent="2" vertex="1">
-          <mxGeometry x="60" y="161" width="110" height="70" as="geometry" />
+          <mxGeometry x="78" y="161" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="271" as="targetPoint" />
+            <mxPoint x="133" y="271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oTjzKzDoYP32wAgAro-r-50" value="approved by&#xa;Head&#xa;" style="rhombus;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="2">
-          <mxGeometry x="75" y="276" width="80" height="40" as="geometry" />
+          <mxGeometry x="93" y="276" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="35" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="2" target="7" edge="1" source="oTjzKzDoYP32wAgAro-r-50">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="70" y="291" as="sourcePoint" />
-            <mxPoint x="250" y="231" as="targetPoint" />
+            <mxPoint x="88" y="291" as="sourcePoint" />
+            <mxPoint x="268" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="30" y="281" />
+              <mxPoint x="48" y="281" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="20" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="oTjzKzDoYP32wAgAro-r-50" target="oTjzKzDoYP32wAgAro-r-56" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="295.55" as="sourcePoint" />
-            <mxPoint x="110" y="370" as="targetPoint" />
+            <mxPoint x="173" y="295.55" as="sourcePoint" />
+            <mxPoint x="128" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oTjzKzDoYP32wAgAro-r-56" value="send request to &#xa;GROUPER" style="" vertex="1" parent="2">
-          <mxGeometry x="40" y="380" width="150" height="50" as="geometry" />
+          <mxGeometry x="58" y="380" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3" value="GROUPER" style="swimlane;whiteSpace=wrap;startSize=60;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="280" height="570" as="geometry" />
@@ -51,9 +51,9 @@
         <mxCell id="33" value="add membership to &#xa;related Groups" style="" parent="3" vertex="1">
           <mxGeometry x="60" y="380" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oTjzKzDoYP32wAgAro-r-59" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" target="33">
+        <mxCell id="oTjzKzDoYP32wAgAro-r-59" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="3" target="33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-90" y="404.54999999999995" as="sourcePoint" />
+            <mxPoint x="-70" y="405" as="sourcePoint" />
             <mxPoint x="50" y="404.54999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T14:25:34.551Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="QzeimoQmFKLZnw69to1r" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T14:26:27.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3UZw1eGfwa9KECCL2TIN" version="24.0.0" type="github">
   <diagram name="Page-1" id="LjrLu1oX0uWmBEWVEw0W">
     <mxGraphModel dx="1557" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,11 +55,11 @@
         <mxCell id="0xAJBplMdVnDTb3CLGRR-15" value="&lt;div&gt;Send HTTP authentication and GET request to Java App&lt;/div&gt;&lt;div&gt;(Daily)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0xAJBplMdVnDTb3CLGRR-3">
           <mxGeometry x="42" y="442" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0xAJBplMdVnDTb3CLGRR-17" value="Fetch the data from the SharePoint list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0xAJBplMdVnDTb3CLGRR-3">
+        <mxCell id="0xAJBplMdVnDTb3CLGRR-17" value="&lt;div&gt;Fetch the data from the SharePoint list&amp;nbsp;&lt;/div&gt;&lt;div&gt;(e.g. AFMC MTD SharePoint list)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0xAJBplMdVnDTb3CLGRR-3">
           <mxGeometry x="40" y="620" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0xAJBplMdVnDTb3CLGRR-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="0xAJBplMdVnDTb3CLGRR-3">
-          <mxGeometry x="125" y="992" width="30" height="30" as="geometry" />
+          <mxGeometry x="125" y="973" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0xAJBplMdVnDTb3CLGRR-24" value="Create / Update items in the SharePoint list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0xAJBplMdVnDTb3CLGRR-3">
           <mxGeometry x="40" y="800" width="200" height="120" as="geometry" />
